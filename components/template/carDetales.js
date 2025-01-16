@@ -53,14 +53,14 @@ const CarDetales = (car) => {
             <p className="font-semibold">Model</p>
           </div>
           <h3 className="text-gray-600">{model}</h3>
-        </div>{" "}
+        </div>
         <div className="flex items-center justify-between w-full">
           <div className="flex items-center gap-2">
             <Calender />
             <p className="font-semibold">First registation</p>
           </div>
           <h3 className="text-gray-600">{year}</h3>
-        </div>{" "}
+        </div>
         <div className="flex items-center justify-between w-full">
           <div className="flex items-center gap-2">
             <Road />
