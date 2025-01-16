@@ -4,7 +4,7 @@ const Frooter = () => {
   return (
     <div className="absolute  bottom-0 w-full bg-slate-400 text-center h-10 pt-2">
       <a
-        href="https://github.com/hosseinmahdiian/Boto_Car"
+        href="https://github.com/hosseinmahdiian"
         target="_blank"
         className="cursor-pointer px-2"
       >
