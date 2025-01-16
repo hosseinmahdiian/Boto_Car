@@ -6,9 +6,9 @@ const Frooter = () => {
       <a
         href="https://github.com/hosseinmahdiian/Boto_Car"
         target="_blank"
-        className="cursor-pointer"
+        className="cursor-pointer px-2"
       >
-        Hossein M.Z
+        Hossein M.Z 
       </a>
       Next.js courses | BotoCar &copy;
     </div>
